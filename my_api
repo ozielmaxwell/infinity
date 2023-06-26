@@ -1,0 +1,6494 @@
+
+{
+  "success": true,
+  "datasetResults": {
+    "data": [
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            "HIV",
+            "Neuropathy"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United Kingdom,England"
+          ],
+          "physicalSampleAvailability": [
+            "NOT AVAILABLE"
+          ],
+          "abstract": "Clinical Phenotyping and Genotyping of HIV-Associated Sensory Neuropathy. This study contains pain related information reported by people living with HIV. It includes those with and without neuropathy and with and without neuropathic pain. ",
+          "ageBand": "0-150",
+          "metadataquality": {
+            "weighted_quality_rating": "Platinum",
+            "weighted_completeness_percent": "87.25",
+            "weighted_error_percent": "0.67",
+            "weighted_quality_score": 93.29
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "e171a080-a4cd-4e64-9c2b-e72beb7cac78",
+        "id": 660393188390745,
+        "datasetid": "b132812c-7a5c-4d2d-aca2-fdcdb890283a",
+        "name": "HIV-POGO",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": "VARIABLE"
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 109,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-30T05:08:42.691Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain Hub",
+            "Pain"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United States"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "The BathTAP Switching study explores the effect of pain status on task performance on three versions of a computerised switching task in a sample drawn from the general population.",
+          "ageBand": "18-75",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "71.14",
+            "weighted_error_percent": "1.34",
+            "weighted_quality_score": 84.9
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "ea1aca1f-6ddb-44a0-b530-0645a26b2bee",
+        "id": 3791177131977075,
+        "datasetid": "01a5c44c-c2fd-4c1e-856e-9875ee1beafa",
+        "name": "BathTAP Switching Cohort 2",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 58,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-28T01:03:23.619Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "HIV",
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            "Neuropathy",
+            "Anxiety",
+            "Depression",
+            "Quality of Life",
+            "Triglycerides"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "The HIV Pain in Neuropathy Study contains pain related information about HIV patients suffering from HIV-associated sensory neuropathy (HIV-SN), a frequent complication of HIV infection and major source of morbidity.",
+          "ageBand": "30-70",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "69.80",
+            "weighted_error_percent": "0.67",
+            "weighted_quality_score": 84.56
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "1abc859e-4ac6-431a-b550-af1afb36df1b",
+        "id": 6380279312375787,
+        "datasetid": "d89732fc-1bc3-4bd6-a634-9e9d03f3fea4",
+        "name": "HIV PiNS",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 109,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-31T06:05:07.957Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United Kingdom"
+          ],
+          "physicalSampleAvailability": [
+            "NOT AVAILABLE"
+          ],
+          "abstract": "Cross-sectional deeply phenotyped cohort with painful and painless neuropathy, focusing on diabetic polyneuropathy and extreme/rare neuropathic pain disorders.",
+          "ageBand": "0-150",
+          "metadataquality": {
+            "weighted_quality_rating": "Platinum",
+            "weighted_completeness_percent": "87.25",
+            "weighted_error_percent": "0.67",
+            "weighted_quality_score": 93.29
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "0a467180-a898-44d8-a586-ca4762de362e",
+        "id": 5917186681337692,
+        "datasetid": "260f4fb2-b40a-4e20-888d-1e3c9c2ddd8e",
+        "name": "DOLORISK",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": "1-2 MONTHS"
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 129,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-01T12:00:54.963Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain Hub",
+            "Pain"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United States"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "The BathTAP updating study explores the effect of pain status on n-back task performance in a sample drawn from the general population",
+          "ageBand": "18-71",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "71.14",
+            "weighted_error_percent": "1.34",
+            "weighted_quality_score": 84.9
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "90131a34-3cc8-4a74-b72f-d9600cfa2808",
+        "id": 7008000257759937,
+        "datasetid": "ba936454-e65e-491d-a16d-79115a4da09a",
+        "name": "BathTAP Updating Cohort 1",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 89,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-26T10:53:20.228Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            "Carpal Tunnel Syndrome",
+            "Neuropathy"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United Kingdom"
+          ],
+          "physicalSampleAvailability": [
+            "NOT AVAILABLE"
+          ],
+          "abstract": "The CAPS Study contains pain and symptom severity related information about patients with carpal tunnel syndrome, the most common of the peripheral neuropathies, both prior to and following carpal tunnel surgery. ",
+          "ageBand": "0-150",
+          "metadataquality": {
+            "weighted_quality_rating": "Platinum",
+            "weighted_completeness_percent": "87.25",
+            "weighted_error_percent": "0.67",
+            "weighted_quality_score": 93.29
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "a4c595a6-cb41-4743-bea3-feb4d4c72091",
+        "id": 591959772846862,
+        "datasetid": "7964fc83-017a-4786-918e-bab61f7ddd99",
+        "name": "CAPS",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": "VARIABLE"
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 129,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-29T20:33:31.745Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            "Neuropathy"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            
+          ],
+          "physicalSampleAvailability": [
+            "NOT AVAILABLE"
+          ],
+          "abstract": "The Neuropathic Pain Profiling in Retroviral Infection Study: NIPPR. This study contains pain related information reported by people living with Human T-lymphotrophic cell virus (HTLV-1) infection. It includes those with and without neuropathic pain. ",
+          "ageBand": "0-150",
+          "metadataquality": {
+            "weighted_quality_rating": "Silver",
+            "weighted_completeness_percent": "57.72",
+            "weighted_error_percent": "0.67",
+            "weighted_quality_score": 78.52
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "41f5c96c-a27a-4015-be50-af967b6c4bac",
+        "id": 73289838606156450,
+        "datasetid": "396e55fb-9a71-4b8c-9e33-2e7179a87d1f",
+        "name": "Neuropathic Pain Profiling in Retroviral Infection Study (NIPPR)",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 96,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-25T02:45:25.581Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain Hub",
+            "Pain",
+            "Headache"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United Kingdom,England,South West,Bath and North East Somerset"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "A replication and extension of the BathTAP headache study explores the effect of a headache on cognitive performance.",
+          "ageBand": "18-72",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "71.14",
+            "weighted_error_percent": "1.34",
+            "weighted_quality_score": 84.9
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "2d79feab-3046-4735-a4ec-a4c11c9c1aa8",
+        "id": 3478910512213147,
+        "datasetid": "e7b615a0-2867-47ff-bb40-0d459b41226c",
+        "name": "BathTAP Headache Cohort 2",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 71,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-29T21:34:16.870Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain Hub",
+            "Pain",
+            "Headache"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United Kingdom,England,South West,Bath and North East Somerset"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "The BathTAP headache study explores the effect of a headache on cognitive performance .",
+          "ageBand": "18-55",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "71.14",
+            "weighted_error_percent": "1.34",
+            "weighted_quality_score": 84.9
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "9cff3fc9-25d6-49fe-8218-dbbc3b3bc1ab",
+        "id": 2615730307439721,
+        "datasetid": "d864c698-b98c-4a1e-9c6a-7b941d61a35c",
+        "name": "BathTAP Headache Cohort 1",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 84,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-15T03:30:46.168Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "https://www.geonames.org/2648147/great-britain.html"
+          ],
+          "physicalSampleAvailability": [
+            "NOT AVAILABLE"
+          ],
+          "abstract": "This collection specifically relates to a short pain survey (self-completion booklet) completed by NCDS participants in 2002-3.",
+          "ageBand": "31-59",
+          "metadataquality": {
+            "weighted_quality_rating": "Platinum",
+            "weighted_completeness_percent": "93.96",
+            "weighted_error_percent": "4.03",
+            "weighted_quality_score": 94.97
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "33092502-12ef-4bc0-8400-5f63915cbf33",
+        "id": 3857108803843823,
+        "datasetid": "77dc7118-443c-4c85-a18c-e7bbe01e9e7a",
+        "name": "1958 National Child Development Study - Pain data",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": "LESS 1 WEEK"
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 169,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-29T07:36:39.791Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            "Fatigue"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United Kingdom",
+            ""
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a chronic disease affecting an estimated 250,000 people in the UK. DecodeME is the world’s largest ME/CFS genetic study. It has Patient and Public Involvement at its heart. ",
+          "ageBand": "0-150",
+          "metadataquality": {
+            "weighted_quality_rating": "Silver",
+            "weighted_completeness_percent": "58.39",
+            "weighted_error_percent": "3.36",
+            "weighted_quality_score": 77.52
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "a71d0b2a-620c-4c04-b7bb-45843461db9f",
+        "id": 14448553900705164,
+        "datasetid": "dd6e4344-9cee-41f3-8062-6bb9cdfda012",
+        "name": "Decode-ME",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 60,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-28T19:07:25.091Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain Hub",
+            "Pain"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            "United States"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "The BathTAP Switching study explores the effect of pain status on performance on four different versions of a computerised switching task in a sample drawn from the general population.",
+          "ageBand": "18-75",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "71.14",
+            "weighted_error_percent": "1.34",
+            "weighted_quality_score": 84.9
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "a20643c7-ef15-4f7d-9e48-5a9f23a645c1",
+        "id": 9445063436255908,
+        "datasetid": "70ad0b2c-a8dd-4f91-a5b8-adca272bf215",
+        "name": "BathTAP Switching Cohort 3",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 29,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-13T09:32:03.897Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            "Carpal Tunnel Syndrome"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "HUB > ALLEVIATE",
+          "geographicCoverage": [
+            
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "This is a cohort study in patients with carpal tunnel syndrome. It contains both cross sectional (pre-surgery) as well as longitudinal data from patients undergoing decompression surgery (pre and 6 months post surgery). ",
+          "ageBand": "0-150",
+          "metadataquality": {
+            "weighted_quality_rating": "Silver",
+            "weighted_completeness_percent": "54.36",
+            "weighted_error_percent": "0.67",
+            "weighted_quality_score": 76.85
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "cd3555b0-514a-4693-8f68-c8267a8e9939",
+        "id": 4500188326551997,
+        "datasetid": "ff727b8e-4805-424a-ba34-acc9b90225fe",
+        "name": "Oxford Carpal Tunnel Syndrome (CTS) Cohort",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "ALLEVIATE",
+              "logo": "",
+              "memberOf": "HUB"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 36,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-22T10:00:21.749Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Pain Hub",
+            "Alleviate",
+            "Pain"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "ALLIANCE > UNIVERSITY OF NOTTINGHAM",
+          "geographicCoverage": [
+            "United Kingdom,England"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "A nutritional interventional study of middle-aged women with body pain, anxiety, depression, fatigue QoL serum and faecal biomarkers and baseline and follow-up. ",
+          "ageBand": "",
+          "metadataquality": {
+            "weighted_quality_rating": "Silver",
+            "weighted_completeness_percent": "53.69",
+            "weighted_error_percent": "0.00",
+            "weighted_quality_score": 76.85
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "a1bcea4c-89dd-4cdb-978c-43db676ed73c",
+        "id": 10158714455302764,
+        "datasetid": "927beb63-f650-4972-a3ad-af8e29dc26a5",
+        "name": "Omega 3 Cohort",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "UNIVERSITY OF NOTTINGHAM",
+              "logo": "",
+              "memberOf": "ALLIANCE"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 197,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-28T06:51:11.316Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Pain Hub",
+            "Alleviate",
+            "Pain"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "ALLIANCE > UNIVERSITY OF NOTTINGHAM",
+          "geographicCoverage": [
+            "United Kingdom,England"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "X-rays at baseline for 2000 hip and knee OA patients and 1200 controls, serum and urine samples for all, WOMAC pain questionnaires, follow up pain, QoL, medical history surgery history 10 years later for a subset of n=1200 participants. ",
+          "ageBand": "",
+          "metadataquality": {
+            "weighted_quality_rating": "Silver",
+            "weighted_completeness_percent": "52.35",
+            "weighted_error_percent": "0.00",
+            "weighted_quality_score": 76.17
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "563c0bfc-437e-4c10-b144-b392d983017c",
+        "id": 33099949809085704,
+        "datasetid": "ab7f482c-42ea-4ddb-8c92-5ecc1be868ce",
+        "name": "GOAL",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "UNIVERSITY OF NOTTINGHAM",
+              "logo": "",
+              "memberOf": "ALLIANCE"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 185,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-29T02:50:04.451Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Edinburgh",
+            "Generation",
+            "NHS Scotland",
+            "Scotland",
+            "UKCRC Tissue Directory",
+            "genetic",
+            "Fit and well",
+            "Glasgow",
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            " Dundee",
+            "Aberdeen"
+          ]
+        },
+        "datasetfields": {
+          "publisher": "ALLIANCE > GENERATION SCOTLAND",
+          "geographicCoverage": [
+            "United Kingdom,Scotland"
+          ],
+          "physicalSampleAvailability": [
+            "DNA",
+            "PLASMA",
+            "SERUM",
+            "URINE",
+            "WHOLE BLOOD"
+          ],
+          "abstract": "A biobank of data and samples for medical research. GS:SFHS is an intensively phenotyped, family-based cohort for the study of the genetic basis of common complex diseases and response to treatments, with consent to record linkage and recontact.",
+          "ageBand": "18-90",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "73.15",
+            "weighted_error_percent": "0.00",
+            "weighted_quality_score": 86.58
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "f4f0ef1a-46cf-4734-8516-3adb0b62ae6d",
+        "id": 6815830240668876,
+        "datasetid": "85e4670b-a4ab-4015-b13e-a30b330e1c52",
+        "name": "Generation Scotland: Scottish Family Health Study",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "GENERATION SCOTLAND",
+              "logo": "",
+              "memberOf": "ALLIANCE"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": "OTHER"
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 426,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-26T08:47:57.666Z",
+        "relatedresources": 6
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Cohort",
+            "Fit and well",
+            "UKCRC Tissue Directory",
+            "Alleviate",
+            "COVID-19 ",
+            "UK Longitudinal Linkage Collaboration",
+            "UK LLC",
+            "Self-Reported Data",
+            "Physical Measures",
+            "Cognitive Measures",
+            "Biochemical Measures",
+            "Omics",
+            "Genetic",
+            "BioBank",
+            "Twin",
+            "Heritability"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "OTHER > TWINS UK",
+          "geographicCoverage": [
+            "United Kingdom"
+          ],
+          "physicalSampleAvailability": [
+            "CORE BIOPSY",
+            "DNA",
+            "FAECES",
+            "IMMORTALIZED CELL LINES",
+            "PERIPHERAL BLOOD CELLS",
+            "PLASMA",
+            "RNA",
+            "SALIVA",
+            "SERUM",
+            "SWABS",
+            "TISSUE",
+            "URINE",
+            "WHOLE BLOOD",
+            "OTHER"
+          ],
+          "abstract": "TwinsUK follows the lives of adult twins to understand how genetic variation relates to health and ageing. Over 30 years, collected data comprises self-reported, physical and cognitive measures, biochemical measures, 'omics and a wealth of biosamples.\n",
+          "ageBand": "18-100",
+          "metadataquality": {
+            "weighted_quality_rating": "Gold",
+            "weighted_completeness_percent": "77.85",
+            "weighted_error_percent": "4.03",
+            "weighted_quality_score": 86.91
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "19b4cd38-3828-4bb1-a980-4f7420658965",
+        "id": 2558571659963662,
+        "datasetid": "6eef1d16-2283-4932-aa6c-c71ae7fa9e3e",
+        "name": "TwinsUK",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "TWINS UK",
+              "logo": "",
+              "memberOf": "OTHER"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "IRREGULAR"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": "2-6 MONTHS"
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 471,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-06-17T16:52:16.564Z",
+        "relatedresources": 1
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Alleviate",
+            "Pain",
+            "Pain Hub",
+            "Diabetes",
+            "Multiomics"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "OTHER > GODARTS",
+          "geographicCoverage": [
+            "United Kingdom,Scotland,Tayside Region"
+          ],
+          "physicalSampleAvailability": [
+            "WHOLE BLOOD"
+          ],
+          "abstract": "Genetics of Diabetes Audit and Research in Tayside Scotland (GoDARTS) contains phenotypic data (clinical and lifestyle factors), questionnaire responses and clinical examination results of over 16,000 diabetes patients in the Tayside region of Scotland.",
+          "ageBand": "18-99",
+          "metadataquality": {
+            "weighted_quality_rating": "Platinum",
+            "weighted_completeness_percent": "83.22",
+            "weighted_error_percent": "0.67",
+            "weighted_quality_score": 91.28
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "8ca05f55-af73-42bd-b682-851c2c54a6cc",
+        "id": 35659970580010450,
+        "datasetid": "705f86b8-4c2f-4ed5-b792-3a0d49d14c75",
+        "name": "GoDARTS",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "GODARTS",
+              "logo": "",
+              "memberOf": "OTHER"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": "OTHER"
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 134,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-19T22:22:16.291Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "Pain Hub",
+            "Alleviate",
+            "Pain"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "ALLIANCE > UNIVERSITY OF NOTTINGHAM",
+          "geographicCoverage": [
+            "United Kingdom,England"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "9000 people aged >40 characterised with knee pain, other sites of pain, depression and anxiety, quality of life and medications etc.",
+          "ageBand": "",
+          "metadataquality": {
+            "weighted_quality_rating": "Silver",
+            "weighted_completeness_percent": "52.35",
+            "weighted_error_percent": "0.00",
+            "weighted_quality_score": 76.17
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "11dee486-22d2-4cf4-a955-512249e61645",
+        "id": 32428487179454144,
+        "datasetid": "0056a5c8-4f98-4e9e-b74a-bd498be71c0d",
+        "name": "KPIC",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "UNIVERSITY OF NOTTINGHAM",
+              "logo": "",
+              "memberOf": "ALLIANCE"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 169,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-24T13:20:12.360Z",
+        "relatedresources": 0
+      },
+      {
+        "categories": {
+          "programmingLanguage": [
+            
+          ]
+        },
+        "tags": {
+          "features": [
+            "exercise",
+            "Pain",
+            "Pain Hub",
+            "Alleviate"
+          ],
+          "topics": [
+            
+          ]
+        },
+        "datasetfields": {
+          "publisher": "ALLIANCE > UNIVERSITY OF NOTTINGHAM",
+          "geographicCoverage": [
+            "United Kingdom,England"
+          ],
+          "physicalSampleAvailability": [
+            
+          ],
+          "abstract": "Randomized controlled trial of exercise vs standard care in patients with radiographic and clinical knee OA.",
+          "ageBand": "",
+          "metadataquality": {
+            "weighted_quality_rating": "Silver",
+            "weighted_completeness_percent": "52.35",
+            "weighted_error_percent": "0.00",
+            "weighted_quality_score": 76.17
+          },
+          "phenotypes": [
+            
+          ]
+        },
+        "isCohortDiscovery": false,
+        "programmingLanguage": [
+          
+        ],
+        "pid": "9254f941-db57-4a97-922e-880b84855a21",
+        "id": 35645770128876976,
+        "datasetid": "320d4c1e-df08-4eaa-ab9f-bd342d1799a0",
+        "name": "Webex Cohort",
+        "datasetv2": {
+          "summary": {
+            "publisher": {
+              "name": "UNIVERSITY OF NOTTINGHAM",
+              "logo": "",
+              "memberOf": "ALLIANCE"
+            }
+          },
+          "provenance": {
+            "temporal": {
+              "accrualPeriodicity": "STATIC"
+            }
+          },
+          "accessibility": {
+            "access": {
+              "deliveryLeadTime": ""
+            }
+          }
+        },
+        "type": "dataset",
+        "activeflag": "active",
+        "counter": 183,
+        "description": "",
+        "persons": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ],
+        "latestUpdate": "2023-05-29T23:27:52.484Z",
+        "relatedresources": 0
+      }
+    ]
+  },
+  "summary": {
+    "datasetCount": 20,
+    "toolCount": 1,
+    "projectCount": 0,
+    "paperCount": 11,
+    "personCount": 1,
+    "courseCount": 0,
+    "collectionCount": 1,
+    "dataUseRegisterCount": 2
+  }
+}
